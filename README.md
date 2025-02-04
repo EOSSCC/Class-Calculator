@@ -14,15 +14,7 @@ While the primary goal of this project is to replicate the BBC class calculator,
 
 **Project Members:**
 
-Dr. Tod Van Gunten is Lecturer in Economic Sociology in SPS.
-
-Scott Oatley is a PhD Student in Youth Transitions
-
-Dr. Roxanne Connelly is Senior Lecturer of Sociology and Quantitative Methods.
-
-Dr. Kevin Ralston is Lecturer in Sociology and Quantitative Methods.
-
-Prof. Vernon Gayle is Chair of Sociology and Social Statistics.
+REDACTED FOR PEER REVIEW.
 
 **References:**
 
